@@ -13,3 +13,7 @@ This repo contains a Dockerfile that allows for easy cross-platform running of y
 * cd into *vp-kp-labs*
 * Run *make qemu-nox*
 * Enjoy!
+
+### Help
+
+If anything is not working as expected, feel free to hit me up.
