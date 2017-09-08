@@ -6,11 +6,10 @@ This repo contains a Dockerfile that allows for easy cross-platform running of y
 
 * Install Docker
 * Clone or download this repo and enter the directory
-* Run *./run.sh*
+* Run *./run.sh <absolute path to local kernel programming source code folder>*
 ..* The first time this runs, a Docker image is built before a container is started
 ..* The second time, a container is ran immediately
 * You are now in an interactive session with a VM that has all tools and the assignment repo cloned
-* cd into *vp-kp-labs*
 * Run *make qemu-nox*
 * Enjoy!
 
